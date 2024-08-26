@@ -30,5 +30,15 @@
 ![대체 텍스트](https://leekeunae.github.io/grid/images/ico-face.png)  
 [](https://leekeunae.github.io/grid/ex08.html)  
 
+## HTML CODE
+```html
+<a href="#">링크텍스트</a>
+~~~
+~~~css
+a{ font-size:20px;
+   color:#ff0000;
+	}
+
+
 
 
