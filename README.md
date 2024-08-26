@@ -24,9 +24,11 @@
 [링크](https://leekeunae.github.io/grid/ex01.html)  
 
 
+![대체 텍스트](https://leekeunae.github.io/grid/images/ico-face.png)  
 
-![대체 텍스트](https://leekeunae.github.io/grid/imges/ico-face.png)
-[](https://leekeunae.github.io/grid/ex08.html)
+
+![대체 텍스트](https://leekeunae.github.io/grid/images/ico-face.png)  
+[](https://leekeunae.github.io/grid/ex08.html)  
 
 
 
