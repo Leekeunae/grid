@@ -21,11 +21,12 @@
 줄바꿈은 스페이스바 2번  
 엔터 2번
 
-[현재창에서 링크](https://leekeunae.github.io/grid/ex01.html)  
+[링크](https://leekeunae.github.io/grid/ex01.html)  
 
 
 
 ![대체 텍스트](https://leekeunae.github.io/grid/imges/ico-face.png)
+[](https://leekeunae.github.io/grid/ex08.html)
 
 
 
