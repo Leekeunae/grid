@@ -33,12 +33,21 @@
 ## HTML CODE
 ```html
 <a href="#">링크텍스트</a>
-~~~
-~~~css
+```
+```css
 a{ font-size:20px;
    color:#ff0000;
-	}
+}
 
+```javascript
+	function add(a,b){
+	return a + b;
+}
+```
+
+
+## TABLE
+|성명|주소|성별|
 
 
 
