@@ -21,8 +21,8 @@
 줄바꿈은 스페이스바 2번  
 엔터 2번
 
-[현재창에서 링크](https://leekeunae.io/grid/ex01.html)  
-[새창에서 링크](https://leekeunae.github.io/ex01.html){_target
+[현재창에서 링크](https://leekeunae.github.io/grid/ex01.html)  
+[새창에서 링크](https://pam7461.github.io/ex01.html)
 
 
 
